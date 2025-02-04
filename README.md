@@ -3,7 +3,7 @@
 This repertory contain my projects for the cited certifications:
 
 <div align="center">
-  <img src=".Certificates/certificate1.png" alt="Header Image" width="900"/>
+  <img src="./Certificates/certificate1.png" alt="Header Image" width="900"/>
 </div>
 
 
